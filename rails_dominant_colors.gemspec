@@ -35,5 +35,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.13'
   spec.add_development_dependency 'simplecov', '~> 0.16'
 
-  spec.add_dependency 'mini_magick', '~> 5.0'
+  spec.add_dependency 'mini_magick', '~> 5.1'
 end
